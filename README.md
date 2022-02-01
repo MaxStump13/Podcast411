@@ -13,7 +13,7 @@
 
 ## Installation
 
-Go to the deployed link [here](https://pod-ap.herokuapp.com/). To work locally, the user will need to clone the repo and install the express, express-sessions, sequelize, dotenv, express-handlebars, connect-session-sequelize, bcrypt, MySQL, and podcast-api packages. On the front end, the user needs jquery, materialize, and slick links.
+Go to the deployed link [here](https://pod-ap.herokuapp.com/) or the github repo [here](https://github.com/MaxStump13/Podcast411). To work locally, the user will need to clone the repo and install the express, express-sessions, sequelize, dotenv, express-handlebars, connect-session-sequelize, bcrypt, MySQL, and podcast-api packages. On the front end, the user needs jquery, materialize, and slick links.
 
 ## Usage
 
